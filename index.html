@@ -131,8 +131,8 @@
 <a class="flex items-center gap-space-sm shrink-0" href="#top">
 <img alt="Balakrishnaa Textiles Logo" class="h-10 w-auto object-contain" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAf1dlwE4fQu-yfwH4gowmZNjn-Pl242PXggrINt3jvIoH3HE-UYcBW-30_PjnDKitN93VuJHHM7gTCvOQIMkKfCB1MeE_K8nFjLC7ZutYEzyPNpcUFkK-7Z0x2aD5R8OAy9SNZT20qR9L4M9KspEU9HXqxhT8yYK3Ni5W5D8gTL6sqHCPKT_lKH30isS6NGOoxNzjLvyB_-pwvMfjcBznitffQY2MsTzX_dBjfaUU-d0i9xkoT3uphiaBPKcJ4iF7goSc"/>
 <div class="flex flex-col">
-<span class="font-headline-sm text-headline-sm font-bold tracking-tight text-on-surface leading-none">Balakrishnaa</span>
-<span class="font-label-caps text-label-caps text-primary tracking-widest uppercase font-bold">Stores</span>
+<span class="font-headline-sm text-headline-sm font-bold tracking-tight leading-none" style="color: #F5329F;">Balakrishnaa</span>
+<span class="font-label-caps text-label-caps tracking-widest uppercase font-bold" style="color: #023499;">Stores</span>
 </div>
 </a>
 <!-- Main Navigation Links -->
@@ -986,7 +986,7 @@
 
   function startSlideTimer() {
     if (slideInterval) clearInterval(slideInterval);
-    slideInterval = setInterval(nextSlide, 5000);
+    slideInterval = setInterval(nextSlide, 3000);
   }
 
   function resetSlideTimer() {
@@ -996,11 +996,6 @@
 
   function initCarousel() {
     showSlide(0);
-    const carouselEl = document.getElementById('hero-carousel');
-    if (carouselEl) {
-      carouselEl.addEventListener('mouseenter', () => clearInterval(slideInterval));
-      carouselEl.addEventListener('mouseleave', () => startSlideTimer());
-    }
     startSlideTimer();
   }
 

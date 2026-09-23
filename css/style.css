@@ -1,0 +1,37 @@
+/*
+  Balakrishnaa Textiles — shared base styles.
+  Loaded on every page, after the Tailwind CDN script.
+  Page-specific look & feel comes entirely from Tailwind utility classes
+  in the markup, so this file stays intentionally small.
+*/
+
+@layer base {
+  html,
+  body {
+    margin: 0;
+    padding: 0;
+    overflow-y: auto !important;
+    height: auto !important;
+    min-height: 100vh !important;
+  }
+
+  body {
+    overscroll-behavior: auto;
+  }
+
+  main > :first-child {
+    margin-top: 0 !important;
+  }
+
+  main > :last-child {
+    margin-bottom: 0 !important;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+button {
+  cursor: pointer;
+}

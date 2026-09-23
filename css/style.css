@@ -33,3 +33,13 @@ html {
 button {
   cursor: pointer;
 }
+/* Homepage hero: a layered editorial slide, rather than a simple fade. */
+#hero-carousel:focus-visible { outline: 3px solid #f5329f; outline-offset: -3px; }
+#hero-carousel .hero-slide { opacity: 0 !important; pointer-events: none; transform: translate3d(10%, 0, 0) scale(1.035); transition: opacity 700ms ease, transform 1050ms cubic-bezier(.22, .61, .36, 1); will-change: opacity, transform; }
+#hero-carousel .hero-slide.is-current { opacity: 1 !important; pointer-events: auto; transform: translate3d(0, 0, 0) scale(1); }
+#hero-carousel .hero-slide.is-leaving-next { opacity: 0 !important; transform: translate3d(-10%, 0, 0) scale(1.02); }
+#hero-carousel .hero-slide.is-leaving-prev { opacity: 0 !important; transform: translate3d(10%, 0, 0) scale(1.02); }
+#hero-carousel.is-moving-prev .hero-slide.is-entering { transform: translate3d(-10%, 0, 0) scale(1.035); }
+#hero-carousel .hero-slide img { transform: scale(1.06); transition: transform 6s cubic-bezier(.22, .61, .36, 1); will-change: transform; }
+#hero-carousel .hero-slide.is-current img { transform: scale(1); }
+@media (prefers-reduced-motion: reduce) { #hero-carousel .hero-slide, #hero-carousel .hero-slide img { transition-duration: 1ms; } }

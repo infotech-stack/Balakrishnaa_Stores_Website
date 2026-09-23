@@ -22,11 +22,11 @@
 </a>
 <a class="inline-flex items-center justify-center gap-space-xs bg-surface-container hover:bg-surface-container-high text-on-surface font-label-md text-label-md py-space-md px-space-lg rounded-lg transition-colors w-full cursor-pointer" href="tel:+919840012345">
 <span class="material-symbols-outlined text-[20px]">call</span>
-<span class="">Call Selaiyur Store (+91 98400 12345)</span>
+<span class="">Call Store (+91 98400 12345)</span>
 </a>
 <a class="inline-flex items-center justify-center gap-space-xs text-secondary hover:text-primary font-label-md text-label-md py-space-xs transition-colors cursor-pointer" href="https://maps.google.com" rel="noopener" target="_blank">
 <span class="material-symbols-outlined text-[18px]">location_on</span>
-<span class="">Get Directions to Selaiyur Store</span>
+<span class="">Get Directions to Store</span>
 </a>
 </div>
 </div>

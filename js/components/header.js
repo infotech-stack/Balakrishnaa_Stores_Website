@@ -54,11 +54,35 @@
 <span class="material-symbols-outlined text-[18px]">storefront</span>
 <span class="">Visit Store</span>
 </a>
-<a class="inline-flex items-center justify-center gap-space-xs bg-primary hover:bg-primary-container text-on-primary font-label-md text-label-md px-space-md py-space-sm rounded-lg transition-colors shadow-sm hover:shadow-md cursor-pointer" href="https://wa.me/919840012345?text=Hello%20Balakrishnaa%20Stores%20Nx%2C%20I%20would%20like%20to%20enquire%20about%20your%20collections" rel="noopener" target="_blank">
+<a class="hidden sm:inline-flex items-center justify-center gap-space-xs bg-primary hover:bg-primary-container text-on-primary font-label-md text-label-md px-space-md py-space-sm rounded-lg transition-colors shadow-sm hover:shadow-md cursor-pointer" href="https://wa.me/919840012345?text=Hello%20Balakrishnaa%20Stores%20Nx%2C%20I%20would%20like%20to%20enquire%20about%20your%20collections" rel="noopener" target="_blank">
 <span class="material-symbols-outlined text-[18px]">chat</span>
 <span class="">Enquire</span>
 </a>
+<button aria-controls="mobile-nav-menu" aria-expanded="false" aria-label="Open menu" class="lg:hidden flex items-center justify-center p-space-sm text-on-surface hover:text-primary hover:bg-surface-container rounded-lg transition-colors cursor-pointer" id="mobile-menu-toggle" type="button">
+<span class="material-symbols-outlined text-[26px]" id="mobile-menu-icon">menu</span>
+</button>
 </div>
+</div>
+<!-- Mobile Navigation Menu -->
+<div class="lg:hidden hidden border-t border-outline-variant bg-surface-container-lowest" id="mobile-nav-menu">
+<nav class="flex flex-col px-gutter-mobile py-space-sm" data-active-classes="text-primary font-bold bg-surface-container">
+<a class="font-label-md text-label-md text-on-surface hover:text-primary hover:bg-surface-container transition-colors px-space-sm py-space-md rounded-lg cursor-pointer" data-path="home" href="index.html">Home</a>
+<a class="font-label-md text-label-md text-on-surface hover:text-primary hover:bg-surface-container transition-colors px-space-sm py-space-md rounded-lg cursor-pointer" data-path="collections" href="collections.html">Collections</a>
+<a class="font-label-md text-label-md text-on-surface hover:text-primary hover:bg-surface-container transition-colors px-space-sm py-space-md rounded-lg cursor-pointer" data-path="women" href="womens_collection.html">Women</a>
+<a class="font-label-md text-label-md text-on-surface hover:text-primary hover:bg-surface-container transition-colors px-space-sm py-space-md rounded-lg cursor-pointer" data-path="men" href="mens.html">Men</a>
+<a class="font-label-md text-label-md text-on-surface hover:text-primary hover:bg-surface-container transition-colors px-space-sm py-space-md rounded-lg cursor-pointer" data-path="kids" href="kids.html">Kids</a>
+<a class="font-label-md text-label-md text-on-surface hover:text-primary hover:bg-surface-container transition-colors px-space-sm py-space-md rounded-lg cursor-pointer" data-path="new-arrivals" href="new_arrival.html">New Arrivals</a>
+<a class="font-label-md text-label-md text-on-surface hover:text-primary hover:bg-surface-container transition-colors px-space-sm py-space-md rounded-lg cursor-pointer" data-path="about-us" href="about_us.html">About Us</a>
+<a class="font-label-md text-label-md text-on-surface hover:text-primary hover:bg-surface-container transition-colors px-space-sm py-space-md rounded-lg cursor-pointer" data-path="contact" href="contact.html">Contact</a>
+<a class="sm:hidden flex items-center justify-center gap-space-xs border border-secondary text-secondary font-label-md text-label-md px-space-md py-space-sm rounded-lg mt-space-sm cursor-pointer" href="contact.html">
+<span class="material-symbols-outlined text-[18px]">storefront</span>
+<span>Visit Store</span>
+</a>
+<a class="sm:hidden flex items-center justify-center gap-space-xs bg-primary text-on-primary font-label-md text-label-md px-space-md py-space-sm rounded-lg mt-space-xs cursor-pointer" href="https://wa.me/919840012345?text=Hello%20Balakrishnaa%20Stores%20Nx%2C%20I%20would%20like%20to%20enquire%20about%20your%20collections" rel="noopener" target="_blank">
+<span class="material-symbols-outlined text-[18px]">chat</span>
+<span>Enquire</span>
+</a>
+</nav>
 </div>
 </header>`;
 
@@ -67,6 +91,59 @@
     if (!target) return;
     target.outerHTML = HEADER_HTML;
     highlightActiveNavLink();
+    setupMobileMenu();
+  }
+
+  // Wires up the hamburger button: toggles the mobile nav panel,
+  // swaps the menu/close icon, and closes on link click, outside
+  // click, Escape, or resize back to desktop width.
+  function setupMobileMenu() {
+    var toggle = document.getElementById('mobile-menu-toggle');
+    var menu = document.getElementById('mobile-nav-menu');
+    var icon = document.getElementById('mobile-menu-icon');
+    if (!toggle || !menu || !icon) return;
+
+    function closeMenu() {
+      menu.classList.add('hidden');
+      icon.textContent = 'menu';
+      toggle.setAttribute('aria-expanded', 'false');
+      toggle.setAttribute('aria-label', 'Open menu');
+    }
+
+    function openMenu() {
+      menu.classList.remove('hidden');
+      icon.textContent = 'close';
+      toggle.setAttribute('aria-expanded', 'true');
+      toggle.setAttribute('aria-label', 'Close menu');
+    }
+
+    toggle.addEventListener('click', function (e) {
+      e.stopPropagation();
+      var isOpen = !menu.classList.contains('hidden');
+      if (isOpen) {
+        closeMenu();
+      } else {
+        openMenu();
+      }
+    });
+
+    menu.querySelectorAll('a').forEach(function (link) {
+      link.addEventListener('click', closeMenu);
+    });
+
+    document.addEventListener('click', function (e) {
+      if (!menu.classList.contains('hidden') && !menu.contains(e.target) && !toggle.contains(e.target)) {
+        closeMenu();
+      }
+    });
+
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') closeMenu();
+    });
+
+    window.addEventListener('resize', function () {
+      if (window.innerWidth >= 1024) closeMenu();
+    });
   }
 
   // Marks the nav/footer link that matches the current page as active,

@@ -47,9 +47,9 @@
 </nav>
 <!-- Action Tools & CTAs -->
 <div class="flex items-center gap-space-sm shrink-0">
-<a aria-label="Search catalogue" class="p-space-sm text-on-surface-variant hover:text-primary transition-colors flex items-center justify-center rounded-lg hover:bg-surface-container cursor-pointer" href="collections.html">
+<button aria-label="Search the website" class="p-space-sm text-on-surface-variant hover:text-primary transition-colors flex items-center justify-center rounded-lg hover:bg-surface-container cursor-pointer" id="global-search-trigger" type="button">
 <span class="material-symbols-outlined text-[22px]">search</span>
-</a>
+</button>
 <a class="hidden sm:inline-flex items-center justify-center gap-space-xs border border-secondary text-secondary hover:bg-secondary hover:text-on-secondary font-label-md text-label-md px-space-md py-space-sm rounded-lg transition-colors cursor-pointer" href="contact.html">
 <span class="material-symbols-outlined text-[18px]">storefront</span>
 <span class="">Visit Store</span>

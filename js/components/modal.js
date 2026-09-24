@@ -60,7 +60,7 @@
     if (!modal || !box) return;
     if (title) title.textContent = itemName;
     if (waLink) {
-      var textMsg = encodeURIComponent('Hello Balakrishnaa Stores Nx, I would like to enquire about: ' + itemName + ' at your Selaiyur showroom.');
+      var textMsg = encodeURIComponent('Hello Balakrishnaa Stores, I would like to enquire about: ' + itemName + ' at your Selaiyur and tambaram showroom.');
       waLink.href = 'https://wa.me/919840012345?text=' + textMsg;
     }
 

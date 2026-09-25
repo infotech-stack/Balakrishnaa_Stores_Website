@@ -38,7 +38,7 @@
 </div>
 </a>
 <!-- Main Navigation Links -->
-<nav class="hidden lg:flex items-center gap-space-md" data-active-classes="text-primary font-headline-sm border-b-2 border-primary">
+<nav class="hidden lg:flex items-center gap-space-md" data-active-classes="text-primary font-headline-sm border-b-2 border-primary" ">
 <a class="font-label-md text-label-md text-on-surface hover:text-primary transition-colors py-1 cursor-pointer" data-path="home" href="index.html">Home</a>
 <a class="font-label-md text-label-md text-on-surface hover:text-primary transition-colors py-1 cursor-pointer" data-path="collections" href="collections.html">Collections</a>
 <a class="font-label-md text-label-md text-on-surface hover:text-primary transition-colors py-1 cursor-pointer" data-path="women" href="womens_collection.html">Women</a>

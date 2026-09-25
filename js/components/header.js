@@ -3,7 +3,8 @@
 (function () {
   var HEADER_HTML = `<header class="sticky top-0 w-full z-40 bg-surface-container-lowest shadow-md">
 <!-- Top Utility Bar -->
-<div class="w-full border-b border-white/20 py-1.5 px-gutter-mobile lg:px-margin font-label-caps text-label-caps flex flex-wrap items-center justify-between gap-space-xs text-white" style="background-color: rgb(245, 50, 159);">
+<div class="w-full border-b border-white/20 py-1.5 px-gutter-mobile lg:px-margin font-label-caps text-label-caps text-white" style="background-color: rgb(245, 50, 159);">
+<div class="max-w-[1920px] mx-auto flex flex-wrap items-center justify-between gap-space-xs">
 <div class="flex items-center gap-space-md">
 <div class="flex items-center gap-space-xs text-white"><span class="material-symbols-outlined text-[16px] text-white">storefront</span><span class="text-white font-medium">3 Showrooms in Chennai: Selaiyur &amp; Tambaram</span></div>
 <span class="text-white/60 hidden sm:inline">•</span>
@@ -24,8 +25,10 @@
 </a>
 </div>
 </div>
+</div>
 <!-- Main Navigation Bar -->
-<div class="w-full px-gutter-mobile lg:px-margin flex items-center justify-between gap-space-md py-space-sm">
+<div class="w-full px-gutter-mobile lg:px-margin py-space-sm">
+<div class="max-w-[1920px] mx-auto flex items-center justify-between gap-space-md">
 <!-- Logo and Brand -->
 <a class="flex items-center gap-space-sm shrink-0" href="index.html">
 <img alt="Balakrishnaa Textiles Logo" class="h-10 w-auto object-contain" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAf1dlwE4fQu-yfwH4gowmZNjn-Pl242PXggrINt3jvIoH3HE-UYcBW-30_PjnDKitN93VuJHHM7gTCvOQIMkKfCB1MeE_K8nFjLC7ZutYEzyPNpcUFkK-7Z0x2aD5R8OAy9SNZT20qR9L4M9KspEU9HXqxhT8yYK3Ni5W5D8gTL6sqHCPKT_lKH30isS6NGOoxNzjLvyB_-pwvMfjcBznitffQY2MsTzX_dBjfaUU-d0i9xkoT3uphiaBPKcJ4iF7goSc"/>
@@ -61,6 +64,7 @@
 <button aria-controls="mobile-nav-menu" aria-expanded="false" aria-label="Open menu" class="lg:hidden flex items-center justify-center p-space-sm text-on-surface hover:text-primary hover:bg-surface-container rounded-lg transition-colors cursor-pointer" id="mobile-menu-toggle" type="button">
 <span class="material-symbols-outlined text-[26px]" id="mobile-menu-icon">menu</span>
 </button>
+</div>
 </div>
 </div>
 <!-- Mobile Navigation Menu -->

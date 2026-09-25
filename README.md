@@ -1,5 +1,35 @@
 # Balakrishnaa Textiles Website
 
+## Styling: Tailwind CSS is now compiled, not CDN
+
+Every page used to load Tailwind via the CDN `<script src="https://cdn.tailwindcss.com">`.
+That script recompiles all the CSS **in the browser, on every single page load**,
+which causes a visible flash of unstyled content (FOUC) each time you click a
+menu link, since this is a multi-page site and every click is a full reload.
+
+Now every page links a pre-built stylesheet instead:
+
+```html
+<link href="css/tailwind-built.css" rel="stylesheet" />
+<link href="css/style.css" rel="stylesheet" />
+```
+
+**If you add or change any Tailwind class names** (in the HTML files or in the
+`.js` files under `js/components/` that inject markup), you need to rebuild
+`css/tailwind-built.css` so the new classes are included, otherwise they won't
+have any effect:
+
+```bash
+npm install        # first time only
+npm run build:css  # one-off rebuild
+npm run watch:css   # rebuilds automatically while you're editing
+```
+
+The theme (colors, spacing, fonts, font sizes) is defined in `tailwind.config.js`
+in the project root — it's the same values that used to live in
+`js/config/tailwind.config.js`. That old file is no longer loaded by any page
+and can be deleted, but has been left in place for reference.
+
 ## Folder structure
 
 ```

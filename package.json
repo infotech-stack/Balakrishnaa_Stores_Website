@@ -1,0 +1,13 @@
+{
+  "name": "balakrishnaa-textiles-website",
+  "version": "1.0.0",
+  "description": "Balakrishnaa Stores website — static multi-page site styled with Tailwind CSS (compiled via CLI, not the CDN).",
+  "private": true,
+  "scripts": {
+    "build:css": "tailwindcss -i ./css/tailwind-src.css -o ./css/tailwind-built.css --minify",
+    "watch:css": "tailwindcss -i ./css/tailwind-src.css -o ./css/tailwind-built.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.19"
+  }
+}

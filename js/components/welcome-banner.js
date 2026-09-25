@@ -4,12 +4,12 @@
 //
 // ============================================================================
 //  TO CHANGE THE BANNER IN FUTURE: just replace the image file at
-//  images/banners/welcome-banner.jpg with your new banner (same file name).
+//  images/banners/welcome-banner.webp with your new banner (same file name).
 //  No code changes needed. If you want visitors who already saw the old
 //  banner to see the new one too, bump BANNER_VERSION below by 1.
 // ============================================================================
 (function () {
-  var BANNER_IMAGE_SRC = 'assets/images/banners/welcome-banner.png';
+  var BANNER_IMAGE_SRC = 'assets/images/banners/welcome-banner.webp';
   var BANNER_ALT_TEXT = 'Balakrishnaa Stores - Deepavali Sales Have Started! Exciting Offers & Special Festive Discounts';
   var BANNER_VERSION = 1; // bump this number to re-show the popup to everyone after a banner change
   var SHOW_DELAY_MS = 500; // small delay after page load feels less jarring than instant popup

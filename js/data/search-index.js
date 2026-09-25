@@ -7,7 +7,7 @@ window.BS_SEARCH_INDEX = [
     "page": "index.html",
     "section": "featured-collections",
     "sectionLabel": "Home",
-    "image": "assets/images/home_page/featured collections/womens designer.png"
+    "image": "assets/images/home_page/featured collections/womens designer.webp"
   },
   {
     "title": "Festive & Party Silhouettes",
@@ -15,7 +15,7 @@ window.BS_SEARCH_INDEX = [
     "page": "index.html",
     "section": "featured-collections",
     "sectionLabel": "Home",
-    "image": "assets/images/home_page/featured collections/festive and party.png"
+    "image": "assets/images/home_page/featured collections/festive and party.webp"
   },
   {
     "title": "Men's Smart Casuals & Formals",
@@ -23,7 +23,7 @@ window.BS_SEARCH_INDEX = [
     "page": "index.html",
     "section": "featured-collections",
     "sectionLabel": "Home",
-    "image": "assets/images/home_page/featured collections/mens smart casual.png"
+    "image": "assets/images/home_page/featured collections/mens smart casual.webp"
   },
   {
     "title": "Kids Vibrant Celebration Wear",
@@ -31,7 +31,7 @@ window.BS_SEARCH_INDEX = [
     "page": "index.html",
     "section": "featured-collections",
     "sectionLabel": "Home",
-    "image": "assets/images/home_page/featured collections/kids vibrant celebration.png"
+    "image": "assets/images/home_page/featured collections/kids vibrant celebration.webp"
   },
   {
     "title": "Embroidered Anarkali Set",
@@ -39,7 +39,7 @@ window.BS_SEARCH_INDEX = [
     "page": "index.html",
     "section": "new-arrivals",
     "sectionLabel": "Home",
-    "image": "assets/images/home_page/new in store this season/embroidered anarkali.png"
+    "image": "assets/images/home_page/new in store this season/embroidered anarkali.webp"
   },
   {
     "title": "Linen Blend Casual Shirt",
@@ -47,7 +47,7 @@ window.BS_SEARCH_INDEX = [
     "page": "index.html",
     "section": "new-arrivals",
     "sectionLabel": "Home",
-    "image": "assets/images/home_page/new in store this season/lenin blend casual.png"
+    "image": "assets/images/home_page/new in store this season/lenin blend casual.webp"
   },
   {
     "title": "Pastel Floral Chanderi Kurti",
@@ -55,7 +55,7 @@ window.BS_SEARCH_INDEX = [
     "page": "index.html",
     "section": "new-arrivals",
     "sectionLabel": "Home",
-    "image": "assets/images/home_page/new in store this season/pastel floral.png"
+    "image": "assets/images/home_page/new in store this season/pastel floral.webp"
   },
   {
     "title": "Boy's Festive Kurta Dhoti Set",
@@ -63,7 +63,7 @@ window.BS_SEARCH_INDEX = [
     "page": "index.html",
     "section": "new-arrivals",
     "sectionLabel": "Home",
-    "image": "assets/images/home_page/new in store this season/boys festive kurta.png"
+    "image": "assets/images/home_page/new in store this season/boys festive kurta.webp"
   },
   {
     "title": "Printed Georgette Tunic",
@@ -71,7 +71,7 @@ window.BS_SEARCH_INDEX = [
     "page": "index.html",
     "section": "new-arrivals",
     "sectionLabel": "Home",
-    "image": "assets/images/home_page/new in store this season/printed geogette.png"
+    "image": "assets/images/home_page/new in store this season/printed geogette.webp"
   },
   {
     "title": "Men's Structured Formal Shirt",
@@ -79,7 +79,7 @@ window.BS_SEARCH_INDEX = [
     "page": "index.html",
     "section": "new-arrivals",
     "sectionLabel": "Home",
-    "image": "assets/images/home_page/new in store this season/mens structured.png"
+    "image": "assets/images/home_page/new in store this season/mens structured.webp"
   },
   {
     "title": "Everyday Wear",
@@ -87,7 +87,7 @@ window.BS_SEARCH_INDEX = [
     "page": "index.html",
     "section": "occasions",
     "sectionLabel": "Home",
-    "image": "assets/images/home_page/collections for every occasion/everyday wear.png"
+    "image": "assets/images/home_page/collections for every occasion/everyday wear.webp"
   },
   {
     "title": "Festive Collection",
@@ -95,7 +95,7 @@ window.BS_SEARCH_INDEX = [
     "page": "index.html",
     "section": "occasions",
     "sectionLabel": "Home",
-    "image": "assets/images/home_page/collections for every occasion/festive collection.png"
+    "image": "assets/images/home_page/collections for every occasion/festive collection.webp"
   },
   {
     "title": "Casual Styles",
@@ -103,7 +103,7 @@ window.BS_SEARCH_INDEX = [
     "page": "index.html",
     "section": "occasions",
     "sectionLabel": "Home",
-    "image": "assets/images/home_page/collections for every occasion/casual styles.png"
+    "image": "assets/images/home_page/collections for every occasion/casual styles.webp"
   },
   {
     "title": "Occasion Wear",
@@ -111,7 +111,7 @@ window.BS_SEARCH_INDEX = [
     "page": "index.html",
     "section": "occasions",
     "sectionLabel": "Home",
-    "image": "assets/images/home_page/collections for every occasion/ocassion wear.png"
+    "image": "assets/images/home_page/collections for every occasion/ocassion wear.webp"
   },
   {
     "title": "Have a specific style or fabric in mind?",
@@ -119,7 +119,7 @@ window.BS_SEARCH_INDEX = [
     "page": "index.html",
     "section": "top",
     "sectionLabel": "Home",
-    "image": "assets/images/home_page/hero image slide1.png"
+    "image": "assets/images/home_page/hero image slide1.webp"
   },
   {
     "title": "Women's Collection",
@@ -127,7 +127,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "pillar-collections",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/collections_women.png"
+    "image": "assets/images/collections/collections_women.webp"
   },
   {
     "title": "Men's Collection",
@@ -135,7 +135,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "pillar-collections",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/collections_men.png"
+    "image": "assets/images/collections/collections_men.webp"
   },
   {
     "title": "Kids' Collection",
@@ -143,7 +143,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "pillar-collections",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/collections_kids.png"
+    "image": "assets/images/collections/collections_kids.webp"
   },
   {
     "title": "Sarees",
@@ -151,7 +151,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "womens-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/womens_collections/sarees.png"
+    "image": "assets/images/collections/womens_collections/sarees.webp"
   },
   {
     "title": "Kurtis",
@@ -159,7 +159,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "womens-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/womens_collections/kurtis.png"
+    "image": "assets/images/collections/womens_collections/kurtis.webp"
   },
   {
     "title": "Salwar & Churidar",
@@ -167,7 +167,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "womens-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/womens_collections/salwars.png"
+    "image": "assets/images/collections/womens_collections/salwars.webp"
   },
   {
     "title": "Dress Materials",
@@ -175,7 +175,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "womens-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/womens_collections/dress materials.png"
+    "image": "assets/images/collections/womens_collections/dress materials.webp"
   },
   {
     "title": "Women's Tops",
@@ -183,7 +183,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "womens-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/womens_collections/women's top.png"
+    "image": "assets/images/collections/womens_collections/women's top.webp"
   },
   {
     "title": "Women's Dresses",
@@ -191,7 +191,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "womens-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/womens_collections/womens dress.png"
+    "image": "assets/images/collections/womens_collections/womens dress.webp"
   },
   {
     "title": "Ethnic Wear",
@@ -199,7 +199,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "womens-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/womens_collections/Ethnic wear.png"
+    "image": "assets/images/collections/womens_collections/Ethnic wear.webp"
   },
   {
     "title": "Casual Wear",
@@ -207,7 +207,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "womens-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/womens_collections/Casual wear.png"
+    "image": "assets/images/collections/womens_collections/Casual wear.webp"
   },
   {
     "title": "Party Wear",
@@ -215,7 +215,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "womens-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/womens_collections/Party wear.png"
+    "image": "assets/images/collections/womens_collections/Party wear.webp"
   },
   {
     "title": "Festive Wear",
@@ -223,7 +223,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "womens-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/womens_collections/Festive Wear.png"
+    "image": "assets/images/collections/womens_collections/Festive Wear.webp"
   },
   {
     "title": "Nightwear / Home Wear",
@@ -231,7 +231,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "womens-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/womens_collections/Nightwear.png"
+    "image": "assets/images/collections/womens_collections/Nightwear.webp"
   },
   {
     "title": "Leggings & Bottom Wear",
@@ -239,7 +239,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "womens-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/womens_collections/Leggings.png"
+    "image": "assets/images/collections/womens_collections/Leggings.webp"
   },
   {
     "title": "Shirts",
@@ -247,7 +247,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "mens-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/mens_collections/Shirts.png"
+    "image": "assets/images/collections/mens_collections/Shirts.webp"
   },
   {
     "title": "T-Shirts",
@@ -255,7 +255,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "mens-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/mens_collections/t-shirts.png"
+    "image": "assets/images/collections/mens_collections/t-shirts.webp"
   },
   {
     "title": "Trousers",
@@ -263,7 +263,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "mens-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/mens_collections/trousers.png"
+    "image": "assets/images/collections/mens_collections/trousers.webp"
   },
   {
     "title": "Casual Wear",
@@ -271,7 +271,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "mens-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/mens_collections/casual.png"
+    "image": "assets/images/collections/mens_collections/casual.webp"
   },
   {
     "title": "Traditional Wear",
@@ -279,7 +279,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "mens-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/mens_collections/traditional.png"
+    "image": "assets/images/collections/mens_collections/traditional.webp"
   },
   {
     "title": "Formal Wear",
@@ -287,7 +287,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "mens-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/mens_collections/formal.png"
+    "image": "assets/images/collections/mens_collections/formal.webp"
   },
   {
     "title": "Party / Occasion Wear",
@@ -295,7 +295,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "mens-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/mens_collections/party wear.png"
+    "image": "assets/images/collections/mens_collections/party wear.webp"
   },
   {
     "title": "Men's Bottom Wear",
@@ -303,7 +303,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "mens-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/mens_collections/mens bottom.png"
+    "image": "assets/images/collections/mens_collections/mens bottom.webp"
   },
   {
     "title": "Boys Wear",
@@ -311,7 +311,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "kids-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/kids collections/boys wear.png"
+    "image": "assets/images/collections/kids collections/boys wear.webp"
   },
   {
     "title": "Girls Wear",
@@ -319,7 +319,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "kids-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/kids collections/girls wear.png"
+    "image": "assets/images/collections/kids collections/girls wear.webp"
   },
   {
     "title": "Kids Casual Wear",
@@ -327,7 +327,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "kids-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/kids collections/kids casual wear.png"
+    "image": "assets/images/collections/kids collections/kids casual wear.webp"
   },
   {
     "title": "Kids Ethnic Wear",
@@ -335,7 +335,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "kids-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/kids collections/kids ethinic wear.png"
+    "image": "assets/images/collections/kids collections/kids ethinic wear.webp"
   },
   {
     "title": "Party Wear",
@@ -343,7 +343,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "kids-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/kids collections/party wear.png"
+    "image": "assets/images/collections/kids collections/party wear.webp"
   },
   {
     "title": "Festive Wear",
@@ -351,7 +351,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "kids-catalogue",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/kids collections/festive wear.png"
+    "image": "assets/images/collections/kids collections/festive wear.webp"
   },
   {
     "title": "Everyday Essentials",
@@ -359,7 +359,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "top",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/featured collections/everyday essentials.png"
+    "image": "assets/images/collections/featured collections/everyday essentials.webp"
   },
   {
     "title": "Festive Styles",
@@ -367,7 +367,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "top",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/featured collections/festive styles.png"
+    "image": "assets/images/collections/featured collections/festive styles.webp"
   },
   {
     "title": "Contemporary Collection",
@@ -375,7 +375,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "top",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/featured collections/contemporary collection.png"
+    "image": "assets/images/collections/featured collections/contemporary collection.webp"
   },
   {
     "title": "Occasion Wear",
@@ -383,7 +383,7 @@ window.BS_SEARCH_INDEX = [
     "page": "collections.html",
     "section": "top",
     "sectionLabel": "Collections",
-    "image": "assets/images/collections/featured collections/occasion wear.png"
+    "image": "assets/images/collections/featured collections/occasion wear.webp"
   },
   {
     "title": "Sarees",
@@ -391,7 +391,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "women-categories",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/explore womens categories/sarees.png"
+    "image": "assets/images/womens/explore womens categories/sarees.webp"
   },
   {
     "title": "Kurtis",
@@ -399,7 +399,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "women-categories",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/explore womens categories/kurtis.png"
+    "image": "assets/images/womens/explore womens categories/kurtis.webp"
   },
   {
     "title": "Salwar & Churidar",
@@ -407,7 +407,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "women-categories",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/explore womens categories/salwar and chudithar.png"
+    "image": "assets/images/womens/explore womens categories/salwar and chudithar.webp"
   },
   {
     "title": "Dress Materials",
@@ -415,7 +415,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "women-categories",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/explore womens categories/dress materials.png"
+    "image": "assets/images/womens/explore womens categories/dress materials.webp"
   },
   {
     "title": "Women's Tops",
@@ -423,7 +423,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "women-categories",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/explore womens categories/womens tops.png"
+    "image": "assets/images/womens/explore womens categories/womens tops.webp"
   },
   {
     "title": "Women's Dresses",
@@ -431,7 +431,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "women-categories",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/explore womens categories/womens dresses.png"
+    "image": "assets/images/womens/explore womens categories/womens dresses.webp"
   },
   {
     "title": "Ethnic Wear",
@@ -439,7 +439,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "women-categories",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/explore womens categories/ethnic wear.png"
+    "image": "assets/images/womens/explore womens categories/ethnic wear.webp"
   },
   {
     "title": "Casual Wear",
@@ -447,7 +447,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "women-categories",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/explore womens categories/casual wear.png"
+    "image": "assets/images/womens/explore womens categories/casual wear.webp"
   },
   {
     "title": "Party / Occasion Wear",
@@ -455,7 +455,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "women-categories",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/explore womens categories/party wear.png"
+    "image": "assets/images/womens/explore womens categories/party wear.webp"
   },
   {
     "title": "Loungewear",
@@ -463,7 +463,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "women-categories",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/explore womens categories/loungewear.png"
+    "image": "assets/images/womens/explore womens categories/loungewear.webp"
   },
   {
     "title": "Bottom Wear",
@@ -471,7 +471,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "women-categories",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/explore womens categories/bottom wear.png"
+    "image": "assets/images/womens/explore womens categories/bottom wear.webp"
   },
   {
     "title": "Dupattas",
@@ -479,7 +479,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "women-categories",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/explore womens categories/dupattas.png"
+    "image": "assets/images/womens/explore womens categories/dupattas.webp"
   },
   {
     "title": "Elegant Ethnic",
@@ -487,7 +487,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "featured-collection",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/featured womens collection/elegant ethnic.png"
+    "image": "assets/images/womens/featured womens collection/elegant ethnic.webp"
   },
   {
     "title": "Everyday Fashion",
@@ -495,7 +495,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "featured-collection",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/featured womens collection/everyday fashion.png"
+    "image": "assets/images/womens/featured womens collection/everyday fashion.webp"
   },
   {
     "title": "Festive Ensembles",
@@ -503,7 +503,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "featured-collection",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/featured womens collection/festive ensembles.png"
+    "image": "assets/images/womens/featured womens collection/festive ensembles.webp"
   },
   {
     "title": "Contemporary Styles",
@@ -511,7 +511,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "featured-collection",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/featured womens collection/contemporary styles.png"
+    "image": "assets/images/womens/featured womens collection/contemporary styles.webp"
   },
   {
     "title": "Emerald Embroidered Georgette Tunic",
@@ -519,7 +519,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "latest-styles",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/latest womens styles/emerald embroidered.png"
+    "image": "assets/images/womens/latest womens styles/emerald embroidered.webp"
   },
   {
     "title": "Pastel Floral Chanderi Kurti",
@@ -527,7 +527,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "latest-styles",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/latest womens styles/pastel floral.png"
+    "image": "assets/images/womens/latest womens styles/pastel floral.webp"
   },
   {
     "title": "Crimson Velvet Occasion Lehenga",
@@ -535,7 +535,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "latest-styles",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/latest womens styles/crimson velvet occasion.png"
+    "image": "assets/images/womens/latest womens styles/crimson velvet occasion.webp"
   },
   {
     "title": "Indigo Hand-block Printed Kurti",
@@ -543,7 +543,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "latest-styles",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/latest womens styles/indigo hand.png"
+    "image": "assets/images/womens/latest womens styles/indigo hand.webp"
   },
   {
     "title": "Smart Casual Tops",
@@ -551,7 +551,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "casual-collection",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/everyday casual styles/smart casual tops.png"
+    "image": "assets/images/womens/everyday casual styles/smart casual tops.webp"
   },
   {
     "title": "Tiered Cotton Dresses",
@@ -559,7 +559,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "casual-collection",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/everyday casual styles/tiered cotton.png"
+    "image": "assets/images/womens/everyday casual styles/tiered cotton.webp"
   },
   {
     "title": "Casual Kurtis & Leggings",
@@ -567,7 +567,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "casual-collection",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/everyday casual styles/casual kurtis.png"
+    "image": "assets/images/womens/everyday casual styles/casual kurtis.webp"
   },
   {
     "title": "Traditional Tamil Festive Anarkali",
@@ -575,7 +575,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "new-arrivals",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/new arrivals/traditional tamil festive anarkali.png"
+    "image": "assets/images/womens/new arrivals/traditional tamil festive anarkali.webp"
   },
   {
     "title": "Blush Chanderi Straight Kurti Set",
@@ -583,7 +583,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "new-arrivals",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/new arrivals/blush chanderi straight kurti set.png"
+    "image": "assets/images/womens/new arrivals/blush chanderi straight kurti set.webp"
   },
   {
     "title": "Sky Blue Handloom Festive Anarkali",
@@ -591,7 +591,7 @@ window.BS_SEARCH_INDEX = [
     "page": "womens_collection.html",
     "section": "new-arrivals",
     "sectionLabel": "Women's Collection",
-    "image": "assets/images/womens/new arrivals/sky blue handloom festive anarkali.png"
+    "image": "assets/images/womens/new arrivals/sky blue handloom festive anarkali.webp"
   },
   {
     "title": "Shirts",
@@ -599,7 +599,7 @@ window.BS_SEARCH_INDEX = [
     "page": "mens.html",
     "section": "categories",
     "sectionLabel": "Men's Collection",
-    "image": "assets/images/mens/Explore Mens Categories/shirts.png"
+    "image": "assets/images/mens/Explore Mens Categories/shirts.webp"
   },
   {
     "title": "T-Shirts",
@@ -607,7 +607,7 @@ window.BS_SEARCH_INDEX = [
     "page": "mens.html",
     "section": "categories",
     "sectionLabel": "Men's Collection",
-    "image": "assets/images/mens/Explore Mens Categories/tshirts.png"
+    "image": "assets/images/mens/Explore Mens Categories/tshirts.webp"
   },
   {
     "title": "Trousers",
@@ -615,7 +615,7 @@ window.BS_SEARCH_INDEX = [
     "page": "mens.html",
     "section": "categories",
     "sectionLabel": "Men's Collection",
-    "image": "assets/images/mens/Explore Mens Categories/trousers.png"
+    "image": "assets/images/mens/Explore Mens Categories/trousers.webp"
   },
   {
     "title": "Casual Wear",
@@ -623,7 +623,7 @@ window.BS_SEARCH_INDEX = [
     "page": "mens.html",
     "section": "categories",
     "sectionLabel": "Men's Collection",
-    "image": "assets/images/mens/Explore Mens Categories/casual wear.png"
+    "image": "assets/images/mens/Explore Mens Categories/casual wear.webp"
   },
   {
     "title": "Formal Wear",
@@ -631,7 +631,7 @@ window.BS_SEARCH_INDEX = [
     "page": "mens.html",
     "section": "categories",
     "sectionLabel": "Men's Collection",
-    "image": "assets/images/mens/Explore Mens Categories/formal wear.png"
+    "image": "assets/images/mens/Explore Mens Categories/formal wear.webp"
   },
   {
     "title": "Traditional Wear",
@@ -639,7 +639,7 @@ window.BS_SEARCH_INDEX = [
     "page": "mens.html",
     "section": "categories",
     "sectionLabel": "Men's Collection",
-    "image": "assets/images/mens/Explore Mens Categories/traditional wear.png"
+    "image": "assets/images/mens/Explore Mens Categories/traditional wear.webp"
   },
   {
     "title": "Party Wear",
@@ -647,7 +647,7 @@ window.BS_SEARCH_INDEX = [
     "page": "mens.html",
     "section": "categories",
     "sectionLabel": "Men's Collection",
-    "image": "assets/images/mens/Explore Mens Categories/party wear.png"
+    "image": "assets/images/mens/Explore Mens Categories/party wear.webp"
   },
   {
     "title": "Occasion Wear",
@@ -655,7 +655,7 @@ window.BS_SEARCH_INDEX = [
     "page": "mens.html",
     "section": "categories",
     "sectionLabel": "Men's Collection",
-    "image": "assets/images/mens/Explore Mens Categories/occasion wear.png"
+    "image": "assets/images/mens/Explore Mens Categories/occasion wear.webp"
   },
   {
     "title": "Men's Bottom Wear",
@@ -671,7 +671,7 @@ window.BS_SEARCH_INDEX = [
     "page": "mens.html",
     "section": "top",
     "sectionLabel": "Men's Collection",
-    "image": "assets/images/mens/Styles For Every Occasion/bridal family sherwanis.png"
+    "image": "assets/images/mens/Styles For Every Occasion/bridal family sherwanis.webp"
   },
   {
     "title": "Traditional Kurta & Veshti",
@@ -679,7 +679,7 @@ window.BS_SEARCH_INDEX = [
     "page": "mens.html",
     "section": "top",
     "sectionLabel": "Men's Collection",
-    "image": "assets/images/mens/Styles For Every Occasion/traditional kurta.png"
+    "image": "assets/images/mens/Styles For Every Occasion/traditional kurta.webp"
   },
   {
     "title": "Bandhgalas & Tuxedos",
@@ -687,7 +687,7 @@ window.BS_SEARCH_INDEX = [
     "page": "mens.html",
     "section": "top",
     "sectionLabel": "Men's Collection",
-    "image": "assets/images/mens/Styles For Every Occasion/bandhgalas.png"
+    "image": "assets/images/mens/Styles For Every Occasion/bandhgalas.webp"
   },
   {
     "title": "Linen Blend Casual Shirt",
@@ -695,7 +695,7 @@ window.BS_SEARCH_INDEX = [
     "page": "mens.html",
     "section": "catalogue",
     "sectionLabel": "Men's Collection",
-    "image": "assets/images/mens/Latest Mens Styles/linen blend casual.png"
+    "image": "assets/images/mens/Latest Mens Styles/linen blend casual.webp"
   },
   {
     "title": "Men's Structured Formal Shirt",
@@ -703,7 +703,7 @@ window.BS_SEARCH_INDEX = [
     "page": "mens.html",
     "section": "catalogue",
     "sectionLabel": "Men's Collection",
-    "image": "assets/images/mens/Latest Mens Styles/mens structured formal shirt.png"
+    "image": "assets/images/mens/Latest Mens Styles/mens structured formal shirt.webp"
   },
   {
     "title": "Regal Embroidered Kurta Set",
@@ -711,7 +711,7 @@ window.BS_SEARCH_INDEX = [
     "page": "mens.html",
     "section": "catalogue",
     "sectionLabel": "Men's Collection",
-    "image": "assets/images/mens/Latest Mens Styles/regal embroidered.png"
+    "image": "assets/images/mens/Latest Mens Styles/regal embroidered.webp"
   },
   {
     "title": "Weekend Polo & Chino Ensemble",
@@ -719,7 +719,7 @@ window.BS_SEARCH_INDEX = [
     "page": "mens.html",
     "section": "catalogue",
     "sectionLabel": "Men's Collection",
-    "image": "assets/images/mens/Latest Mens Styles/weekend polo chino.png"
+    "image": "assets/images/mens/Latest Mens Styles/weekend polo chino.webp"
   },
   {
     "title": "Mandarin Collar Linen Shirt",
@@ -727,7 +727,7 @@ window.BS_SEARCH_INDEX = [
     "page": "mens.html",
     "section": "catalogue",
     "sectionLabel": "Men's Collection",
-    "image": "assets/images/mens/Latest Mens Styles/mandarin collar.png"
+    "image": "assets/images/mens/Latest Mens Styles/mandarin collar.webp"
   },
   {
     "title": "Tailored Executive Trousers",
@@ -735,7 +735,7 @@ window.BS_SEARCH_INDEX = [
     "page": "mens.html",
     "section": "catalogue",
     "sectionLabel": "Men's Collection",
-    "image": "assets/images/mens/Latest Mens Styles/tailored executive trousers.png"
+    "image": "assets/images/mens/Latest Mens Styles/tailored executive trousers.webp"
   },
   {
     "title": "Boys Wear",
@@ -743,7 +743,7 @@ window.BS_SEARCH_INDEX = [
     "page": "kids.html",
     "section": "kids-categories",
     "sectionLabel": "Kids' Collection",
-    "image": "assets/images/kids/explore kids categories/boys wear.png"
+    "image": "assets/images/kids/explore kids categories/boys wear.webp"
   },
   {
     "title": "Girls Wear",
@@ -751,7 +751,7 @@ window.BS_SEARCH_INDEX = [
     "page": "kids.html",
     "section": "kids-categories",
     "sectionLabel": "Kids' Collection",
-    "image": "assets/images/kids/explore kids categories/girls wear.png"
+    "image": "assets/images/kids/explore kids categories/girls wear.webp"
   },
   {
     "title": "Kids Casual Wear",
@@ -759,7 +759,7 @@ window.BS_SEARCH_INDEX = [
     "page": "kids.html",
     "section": "kids-categories",
     "sectionLabel": "Kids' Collection",
-    "image": "assets/images/kids/explore kids categories/kids casual wear.png"
+    "image": "assets/images/kids/explore kids categories/kids casual wear.webp"
   },
   {
     "title": "Kids Ethnic Wear",
@@ -767,7 +767,7 @@ window.BS_SEARCH_INDEX = [
     "page": "kids.html",
     "section": "kids-categories",
     "sectionLabel": "Kids' Collection",
-    "image": "assets/images/kids/explore kids categories/kids ethnic wear.png"
+    "image": "assets/images/kids/explore kids categories/kids ethnic wear.webp"
   },
   {
     "title": "Party Wear",
@@ -775,7 +775,7 @@ window.BS_SEARCH_INDEX = [
     "page": "kids.html",
     "section": "kids-categories",
     "sectionLabel": "Kids' Collection",
-    "image": "assets/images/kids/explore kids categories/party wear.png"
+    "image": "assets/images/kids/explore kids categories/party wear.webp"
   },
   {
     "title": "Festive Wear",
@@ -783,7 +783,7 @@ window.BS_SEARCH_INDEX = [
     "page": "kids.html",
     "section": "kids-categories",
     "sectionLabel": "Kids' Collection",
-    "image": "assets/images/kids/explore kids categories/festive wear.png"
+    "image": "assets/images/kids/explore kids categories/festive wear.webp"
   },
   {
     "title": "Everyday Wear",
@@ -791,7 +791,7 @@ window.BS_SEARCH_INDEX = [
     "page": "kids.html",
     "section": "kids-categories",
     "sectionLabel": "Kids' Collection",
-    "image": "assets/images/kids/explore kids categories/everyday wear.png"
+    "image": "assets/images/kids/explore kids categories/everyday wear.webp"
   },
   {
     "title": "Occasion Wear",
@@ -799,7 +799,7 @@ window.BS_SEARCH_INDEX = [
     "page": "kids.html",
     "section": "kids-categories",
     "sectionLabel": "Kids' Collection",
-    "image": "assets/images/kids/explore kids categories/occasion wear.png"
+    "image": "assets/images/kids/explore kids categories/occasion wear.webp"
   },
   {
     "title": "Boy's Festive Kurta Dhoti Set",
@@ -807,7 +807,7 @@ window.BS_SEARCH_INDEX = [
     "page": "kids.html",
     "section": "latest-kids",
     "sectionLabel": "Kids' Collection",
-    "image": "assets/images/kids/latest kids styles/boys festive kurta.png"
+    "image": "assets/images/kids/latest kids styles/boys festive kurta.webp"
   },
   {
     "title": "Pastel Dream Floral Tulle Frock",
@@ -815,7 +815,7 @@ window.BS_SEARCH_INDEX = [
     "page": "kids.html",
     "section": "latest-kids",
     "sectionLabel": "Kids' Collection",
-    "image": "assets/images/kids/latest kids styles/pastel dream floral.png"
+    "image": "assets/images/kids/latest kids styles/pastel dream floral.webp"
   },
   {
     "title": "Royal Sibling Festive Ensembles",
@@ -823,7 +823,7 @@ window.BS_SEARCH_INDEX = [
     "page": "kids.html",
     "section": "latest-kids",
     "sectionLabel": "Kids' Collection",
-    "image": "assets/images/kids/latest kids styles/royal sibling festive.png"
+    "image": "assets/images/kids/latest kids styles/royal sibling festive.webp"
   },
   {
     "title": "Mandarin Collar Linen Boy's Shirt",
@@ -831,7 +831,7 @@ window.BS_SEARCH_INDEX = [
     "page": "kids.html",
     "section": "latest-kids",
     "sectionLabel": "Kids' Collection",
-    "image": "assets/images/kids/latest kids styles/mandarin collar.png"
+    "image": "assets/images/kids/latest kids styles/mandarin collar.webp"
   },
   {
     "title": "Embroidered Georgette Anarkali Set",
@@ -839,7 +839,7 @@ window.BS_SEARCH_INDEX = [
     "page": "kids.html",
     "section": "latest-kids",
     "sectionLabel": "Kids' Collection",
-    "image": "assets/images/kids/latest kids styles/embroidered georgette.png"
+    "image": "assets/images/kids/latest kids styles/embroidered georgette.webp"
   },
   {
     "title": "Traditional Zari Border Pavada Set",
@@ -847,7 +847,7 @@ window.BS_SEARCH_INDEX = [
     "page": "kids.html",
     "section": "latest-kids",
     "sectionLabel": "Kids' Collection",
-    "image": "assets/images/kids/latest kids styles/traditional zari border.png"
+    "image": "assets/images/kids/latest kids styles/traditional zari border.webp"
   },
   {
     "title": "Women’s New Arrivals",
@@ -855,7 +855,7 @@ window.BS_SEARCH_INDEX = [
     "page": "new_arrival.html",
     "section": "whats-new",
     "sectionLabel": "New Arrivals",
-    "image": "assets/images/new arrivals/explore whts new/womens new arrivals.png"
+    "image": "assets/images/new arrivals/explore whts new/womens new arrivals.webp"
   },
   {
     "title": "Men’s New Arrivals",
@@ -863,7 +863,7 @@ window.BS_SEARCH_INDEX = [
     "page": "new_arrival.html",
     "section": "whats-new",
     "sectionLabel": "New Arrivals",
-    "image": "assets/images/new arrivals/explore whts new/mens new arrivals.png"
+    "image": "assets/images/new arrivals/explore whts new/mens new arrivals.webp"
   },
   {
     "title": "Kids’ New Arrivals",
@@ -871,7 +871,7 @@ window.BS_SEARCH_INDEX = [
     "page": "new_arrival.html",
     "section": "whats-new",
     "sectionLabel": "New Arrivals",
-    "image": "assets/images/new arrivals/explore whts new/kids new arrivals.png"
+    "image": "assets/images/new arrivals/explore whts new/kids new arrivals.webp"
   },
   {
     "title": "Embroidered Emerald Georgette Set",
@@ -879,7 +879,7 @@ window.BS_SEARCH_INDEX = [
     "page": "new_arrival.html",
     "section": "womens-arrivals",
     "sectionLabel": "New Arrivals",
-    "image": "assets/images/new arrivals/new arrival for women/embroidered emerald georgette set.png"
+    "image": "assets/images/new arrivals/new arrival for women/embroidered emerald georgette set.webp"
   },
   {
     "title": "Chanderi Floral Heritage Saree",
@@ -887,7 +887,7 @@ window.BS_SEARCH_INDEX = [
     "page": "new_arrival.html",
     "section": "womens-arrivals",
     "sectionLabel": "New Arrivals",
-    "image": "assets/images/new arrivals/new arrival for women/chanderi floral heritage saree.png"
+    "image": "assets/images/new arrivals/new arrival for women/chanderi floral heritage saree.webp"
   },
   {
     "title": "Pastel Festive Kurti Ensemble",
@@ -895,7 +895,7 @@ window.BS_SEARCH_INDEX = [
     "page": "new_arrival.html",
     "section": "womens-arrivals",
     "sectionLabel": "New Arrivals",
-    "image": "assets/images/new arrivals/new arrival for women/pastel festive kurti ensemble.png"
+    "image": "assets/images/new arrivals/new arrival for women/pastel festive kurti ensemble.webp"
   },
   {
     "title": "Contemporary Indo-Western Tunic",
@@ -903,7 +903,7 @@ window.BS_SEARCH_INDEX = [
     "page": "new_arrival.html",
     "section": "womens-arrivals",
     "sectionLabel": "New Arrivals",
-    "image": "assets/images/new arrivals/new arrival for women/contemporary indo western.png"
+    "image": "assets/images/new arrivals/new arrival for women/contemporary indo western.webp"
   },
   {
     "title": "Royal Velvet & Organza Occasion Set",
@@ -911,7 +911,7 @@ window.BS_SEARCH_INDEX = [
     "page": "new_arrival.html",
     "section": "womens-arrivals",
     "sectionLabel": "New Arrivals",
-    "image": "assets/images/new arrivals/new arrival for women/royal velvet organza occasion.png"
+    "image": "assets/images/new arrivals/new arrival for women/royal velvet organza occasion.webp"
   },
   {
     "title": "Hand-Dyed Georgette Scalloped Saree",
@@ -919,7 +919,7 @@ window.BS_SEARCH_INDEX = [
     "page": "new_arrival.html",
     "section": "womens-arrivals",
     "sectionLabel": "New Arrivals",
-    "image": "assets/images/new arrivals/new arrival for women/hand-dyed georgette.png"
+    "image": "assets/images/new arrivals/new arrival for women/hand-dyed georgette.webp"
   },
   {
     "title": "French Linen Day-Shirt",
@@ -927,7 +927,7 @@ window.BS_SEARCH_INDEX = [
     "page": "new_arrival.html",
     "section": "mens-arrivals",
     "sectionLabel": "New Arrivals",
-    "image": "assets/images/new arrivals/new arrival for men/french linen day.png"
+    "image": "assets/images/new arrivals/new arrival for men/french linen day.webp"
   },
   {
     "title": "Zari Kurta & Veshti",
@@ -935,7 +935,7 @@ window.BS_SEARCH_INDEX = [
     "page": "new_arrival.html",
     "section": "mens-arrivals",
     "sectionLabel": "New Arrivals",
-    "image": "assets/images/new arrivals/new arrival for men/zari kurta.png"
+    "image": "assets/images/new arrivals/new arrival for men/zari kurta.webp"
   },
   {
     "title": "Micro-Twill Formal Suit",
@@ -943,7 +943,7 @@ window.BS_SEARCH_INDEX = [
     "page": "new_arrival.html",
     "section": "mens-arrivals",
     "sectionLabel": "New Arrivals",
-    "image": "assets/images/new arrivals/new arrival for men/micro twill formal.png"
+    "image": "assets/images/new arrivals/new arrival for men/micro twill formal.webp"
   },
   {
     "title": "Artisanal Bandhgala",
@@ -951,7 +951,7 @@ window.BS_SEARCH_INDEX = [
     "page": "new_arrival.html",
     "section": "mens-arrivals",
     "sectionLabel": "New Arrivals",
-    "image": "assets/images/new arrivals/new arrival for men/artisanal bandhgala.png"
+    "image": "assets/images/new arrivals/new arrival for men/artisanal bandhgala.webp"
   },
   {
     "title": "Mercerized Cotton Polo",
@@ -959,7 +959,7 @@ window.BS_SEARCH_INDEX = [
     "page": "new_arrival.html",
     "section": "mens-arrivals",
     "sectionLabel": "New Arrivals",
-    "image": "assets/images/new arrivals/new arrival for men/mercerized cotton polo.png"
+    "image": "assets/images/new arrivals/new arrival for men/mercerized cotton polo.webp"
   },
   {
     "title": "Multi-Tier Tulle Frock",
@@ -967,7 +967,7 @@ window.BS_SEARCH_INDEX = [
     "page": "new_arrival.html",
     "section": "kids-arrivals",
     "sectionLabel": "New Arrivals",
-    "image": "assets/images/new arrivals/new arrival for kids/multi-tier.png"
+    "image": "assets/images/new arrivals/new arrival for kids/multi-tier.webp"
   },
   {
     "title": "Cotton Festive Kurta Set",
@@ -975,7 +975,7 @@ window.BS_SEARCH_INDEX = [
     "page": "new_arrival.html",
     "section": "kids-arrivals",
     "sectionLabel": "New Arrivals",
-    "image": "assets/images/new arrivals/new arrival for kids/cotton festive.png"
+    "image": "assets/images/new arrivals/new arrival for kids/cotton festive.webp"
   },
   {
     "title": "Sibling Ensembles",
@@ -983,7 +983,7 @@ window.BS_SEARCH_INDEX = [
     "page": "new_arrival.html",
     "section": "kids-arrivals",
     "sectionLabel": "New Arrivals",
-    "image": "assets/images/new arrivals/new arrival for kids/sibling ensembles.png"
+    "image": "assets/images/new arrivals/new arrival for kids/sibling ensembles.webp"
   },
   {
     "title": "Organza Birthday Dress",
@@ -991,7 +991,7 @@ window.BS_SEARCH_INDEX = [
     "page": "new_arrival.html",
     "section": "kids-arrivals",
     "sectionLabel": "New Arrivals",
-    "image": "assets/images/new arrivals/new arrival for kids/organza birthday dress.png"
+    "image": "assets/images/new arrivals/new arrival for kids/organza birthday dress.webp"
   },
   {
     "title": "Boys’ Linen Shirt Set",
@@ -999,7 +999,7 @@ window.BS_SEARCH_INDEX = [
     "page": "new_arrival.html",
     "section": "kids-arrivals",
     "sectionLabel": "New Arrivals",
-    "image": "assets/images/new arrivals/new arrival for kids/boys linen shirt.png"
+    "image": "assets/images/new arrivals/new arrival for kids/boys linen shirt.webp"
   },
   {
     "title": "Multi-Floor Curation",
@@ -1031,7 +1031,7 @@ window.BS_SEARCH_INDEX = [
     "page": "about_us.html",
     "section": "top",
     "sectionLabel": "About Us",
-    "image": "assets/images/hero_images/bs_womens_collection_hero.png"
+    "image": "assets/images/hero_images/bs_womens_collection_hero.webp"
   },
   {
     "title": "Men's Collection",
@@ -1039,7 +1039,7 @@ window.BS_SEARCH_INDEX = [
     "page": "about_us.html",
     "section": "top",
     "sectionLabel": "About Us",
-    "image": "assets/images/hero_images/bs_men_collections_hero.png"
+    "image": "assets/images/hero_images/bs_men_collections_hero.webp"
   },
   {
     "title": "Kids' Collection",
@@ -1047,7 +1047,7 @@ window.BS_SEARCH_INDEX = [
     "page": "about_us.html",
     "section": "top",
     "sectionLabel": "About Us",
-    "image": "assets/images/hero_images/bs_kids_collections_hero.png"
+    "image": "assets/images/hero_images/bs_kids_collections_hero.webp"
   },
   {
     "title": "Everyday Wear",
@@ -1095,7 +1095,7 @@ window.BS_SEARCH_INDEX = [
     "page": "about_us.html",
     "section": "store-gallery",
     "sectionLabel": "About Us",
-    "image": "assets/images/about/bs_Festive Store Facade_about.png"
+    "image": "assets/images/about/bs_Festive Store Facade_about.webp"
   },
   {
     "title": "Spacious Counters & Apparel Curation",
@@ -1103,7 +1103,7 @@ window.BS_SEARCH_INDEX = [
     "page": "about_us.html",
     "section": "store-gallery",
     "sectionLabel": "About Us",
-    "image": "assets/images/contact/bs_II_selaiyur.png"
+    "image": "assets/images/contact/bs_II_selaiyur.webp"
   },
   {
     "title": "Grand Textile Aisles & Dress Materials",
@@ -1111,7 +1111,7 @@ window.BS_SEARCH_INDEX = [
     "page": "about_us.html",
     "section": "store-gallery",
     "sectionLabel": "About Us",
-    "image": "assets/images/contact/bs_I_tambaram.png"
+    "image": "assets/images/contact/bs_I_tambaram.webp"
   },
   {
     "title": "Multi-Floor Architectural Presence",
@@ -1119,7 +1119,7 @@ window.BS_SEARCH_INDEX = [
     "page": "about_us.html",
     "section": "store-gallery",
     "sectionLabel": "About Us",
-    "image": "assets/images/contact/bs_nx_contact.png"
+    "image": "assets/images/contact/bs_nx_contact.webp"
   },
   {
     "title": "Wide Clothing Collection",

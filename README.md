@@ -125,4 +125,4 @@ code and organized files into folders.
 
 Copy your existing `assets/images` folder contents into the matching
 `assets/images/...` paths here. Image paths in the HTML were left exactly
-as they were, e.g. `assets/images/home_page/hero image slide1.png`.
+as they were, e.g. `assets/images/home_page/hero image slide1.webp`.

@@ -31,11 +31,7 @@
 <div class="max-w-[1920px] mx-auto flex items-center justify-between gap-space-md">
 <!-- Logo and Brand -->
 <a class="flex items-center gap-space-sm shrink-0" href="index.html">
-<img alt="Balakrishnaa Textiles Logo" class="h-10 w-auto object-contain" src="https://lh3.googleusercontent.com/aida-public/AB6AXuAf1dlwE4fQu-yfwH4gowmZNjn-Pl242PXggrINt3jvIoH3HE-UYcBW-30_PjnDKitN93VuJHHM7gTCvOQIMkKfCB1MeE_K8nFjLC7ZutYEzyPNpcUFkK-7Z0x2aD5R8OAy9SNZT20qR9L4M9KspEU9HXqxhT8yYK3Ni5W5D8gTL6sqHCPKT_lKH30isS6NGOoxNzjLvyB_-pwvMfjcBznitffQY2MsTzX_dBjfaUU-d0i9xkoT3uphiaBPKcJ4iF7goSc"/>
-<div class="flex flex-col">
-<span class="font-headline-sm text-headline-sm font-bold tracking-tight leading-none" style="color: #F5329F;">Balakrishnaa</span>
-<span class="font-label-caps text-label-caps tracking-widest uppercase font-bold" style="color: #023499; font-weight: 800">Stores</span>
-</div>
+<img alt="Balakrishnaa Textiles Logo" class="h-10 w-auto object-contain" src="assets/images/logo/new logo png with name.webp"/>
 </a>
 <!-- Main Navigation Links -->
 <nav class="hidden lg:flex items-center gap-space-md" data-active-classes="text-primary font-headline-sm border-b-2 border-primary" ">

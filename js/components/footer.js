@@ -18,7 +18,7 @@
         <span class="material-symbols-outlined text-[16px] text-tertiary-fixed">schedule</span>
         <span class="">9:30 AM – 10:00 PM Daily</span>
       </div>
-      <a class="inline-flex items-center gap-space-xs font-label-caps text-label-caps uppercase tracking-wider bg-primary hover:bg-primary-container text-white px-space-md py-1.5 rounded-full shadow-sm hover:shadow transition-all cursor-pointer" href="https://wa.me/919840012345" rel="noopener" target="_blank">
+      <a class="inline-flex items-center gap-space-xs font-label-caps text-label-caps uppercase tracking-wider bg-primary hover:bg-primary-container text-white px-space-md py-1.5 rounded-full shadow-sm hover:shadow transition-all cursor-pointer" href="https://wa.me/919384086770" rel="noopener" target="_blank">
         <span class="material-symbols-outlined text-[16px]">chat</span>
         <span class="">Store Concierge</span>
       </a>
@@ -105,7 +105,7 @@
         <span class="">Private Fitting Suites</span>
         <span class="material-symbols-outlined text-[14px] text-white/30 group-hover:text-primary-fixed transition-colors">arrow_forward</span>
       </a>
-      <a class="font-body-sm text-body-sm text-white/75 hover:text-white transition-colors py-1 cursor-pointer flex items-center justify-between group" href="https://wa.me/919840012345" rel="noopener" target="_blank">
+      <a class="font-body-sm text-body-sm text-white/75 hover:text-white transition-colors py-1 cursor-pointer flex items-center justify-between group" href="https://wa.me/919384086770" rel="noopener" target="_blank">
         <span class="">In-Store Personal Stylist</span>
         <span class="material-symbols-outlined text-[14px] text-white/30 group-hover:text-primary-fixed transition-colors">arrow_forward</span>
       </a>
@@ -186,7 +186,7 @@
         <span class="material-symbols-outlined text-[16px]">map</span>
         <span class="">Get Directions</span>
       </a>
-      <a class="flex-1 inline-flex items-center justify-center gap-space-xs bg-tertiary hover:bg-tertiary-container text-white font-label-md text-label-md py-space-xs px-space-sm rounded-lg transition-colors cursor-pointer" href="https://wa.me/919840012345" rel="noopener" target="_blank">
+      <a class="flex-1 inline-flex items-center justify-center gap-space-xs bg-tertiary hover:bg-tertiary-container text-white font-label-md text-label-md py-space-xs px-space-sm rounded-lg transition-colors cursor-pointer" href="https://wa.me/919384086770" rel="noopener" target="_blank">
         <span class="material-symbols-outlined text-[16px]">chat</span>
         <span class="">WhatsApp Desk</span>
       </a>

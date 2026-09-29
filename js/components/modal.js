@@ -20,7 +20,7 @@
 <span class="material-symbols-outlined text-[20px]">chat</span>
 <span class="">Enquire via WhatsApp</span>
 </a>
-<a class="inline-flex items-center justify-center gap-space-xs bg-surface-container hover:bg-surface-container-high text-on-surface font-label-md text-label-md py-space-md px-space-lg rounded-lg transition-colors w-full cursor-pointer" href="tel:+919840012345">
+<a class="inline-flex items-center justify-center gap-space-xs bg-surface-container hover:bg-surface-container-high text-on-surface font-label-md text-label-md py-space-md px-space-lg rounded-lg transition-colors w-full cursor-pointer" href="tel:+919384086770">
 <span class="material-symbols-outlined text-[20px]">call</span>
 <span class="">Call Store (+91 98400 12345)</span>
 </a>
@@ -61,7 +61,7 @@
     if (title) title.textContent = itemName;
     if (waLink) {
       var textMsg = encodeURIComponent('Hello Balakrishnaa Stores, I would like to enquire about: ' + itemName + ' at your Selaiyur and tambaram showroom.');
-      waLink.href = 'https://wa.me/919840012345?text=' + textMsg;
+      waLink.href = 'https://wa.me/919384086770?text=' + textMsg;
     }
 
     modal.classList.remove('hidden');

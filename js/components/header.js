@@ -14,12 +14,12 @@
 </div>
 </div>
 <div class="flex items-center gap-space-md">
-<a class="flex items-center gap-space-xs text-white hover:text-white/80 transition-colors" href="tel:+919840012345">
+<a class="flex items-center gap-space-xs text-white hover:text-white/80 transition-colors" href="tel:+919384086770">
 <span class="material-symbols-outlined text-[16px] text-white">call</span>
-<span class="font-bold text-white">+91 98400 12345</span>
+<span class="font-bold text-white">+91 93840 86770</span>
 </a>
 <span class="text-white/60">•</span>
-<a class="flex items-center gap-space-xs text-white hover:text-white/80 transition-colors" href="https://wa.me/919840012345" rel="noopener" target="_blank">
+<a class="flex items-center gap-space-xs text-white hover:text-white/80 transition-colors" href="https://wa.me/919384086770" rel="noopener" target="_blank">
 <span class="material-symbols-outlined text-[16px] text-white">chat</span>
 <span class="font-bold uppercase tracking-wider text-white">WhatsApp Assistance</span>
 </a>
@@ -53,7 +53,7 @@
 <span class="material-symbols-outlined text-[18px]">storefront</span>
 <span class="">Visit Store</span>
 </a>
-<a class="hidden sm:inline-flex items-center justify-center gap-space-xs bg-primary hover:bg-primary-container text-on-primary font-label-md text-label-md px-space-md py-space-sm rounded-lg transition-colors shadow-sm hover:shadow-md cursor-pointer" href="https://wa.me/919840012345?text=Hello%20Balakrishnaa%20Stores%20Nx%2C%20I%20would%20like%20to%20enquire%20about%20your%20collections" rel="noopener" target="_blank">
+<a class="hidden sm:inline-flex items-center justify-center gap-space-xs bg-primary hover:bg-primary-container text-on-primary font-label-md text-label-md px-space-md py-space-sm rounded-lg transition-colors shadow-sm hover:shadow-md cursor-pointer" href="https://wa.me/919384086770?text=Hello%20Balakrishnaa%20Stores%20Nx%2C%20I%20would%20like%20to%20enquire%20about%20your%20collections" rel="noopener" target="_blank">
 <span class="material-symbols-outlined text-[18px]">chat</span>
 <span class="">Enquire</span>
 </a>
@@ -78,7 +78,7 @@
 <span class="material-symbols-outlined text-[18px]">storefront</span>
 <span>Visit Store</span>
 </a>
-<a class="sm:hidden flex items-center justify-center gap-space-xs bg-primary text-on-primary font-label-md text-label-md px-space-md py-space-sm rounded-lg mt-space-xs cursor-pointer" href="https://wa.me/919840012345?text=Hello%20Balakrishnaa%20Stores%20Nx%2C%20I%20would%20like%20to%20enquire%20about%20your%20collections" rel="noopener" target="_blank">
+<a class="sm:hidden flex items-center justify-center gap-space-xs bg-primary text-on-primary font-label-md text-label-md px-space-md py-space-sm rounded-lg mt-space-xs cursor-pointer" href="https://wa.me/919384086770?text=Hello%20Balakrishnaa%20Stores%20Nx%2C%20I%20would%20like%20to%20enquire%20about%20your%20collections" rel="noopener" target="_blank">
 <span class="material-symbols-outlined text-[18px]">chat</span>
 <span>Enquire</span>
 </a>

@@ -1,4 +1,4 @@
-# robots.txt for https://www.balakrishnaatextiles.com
+# robots.txt for https://www.balakrishnaastores.com
 User-agent: *
 Allow: /
 Disallow: /node_modules/
@@ -13,4 +13,4 @@ Disallow: /js/config/
 User-agent: Googlebot-Image
 Allow: /assets/images/
 
-Sitemap: https://www.balakrishnaatextiles.com/sitemap.xml
+Sitemap: https://www.balakrishnaastores.com/sitemap.xml

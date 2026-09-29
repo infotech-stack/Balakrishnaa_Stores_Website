@@ -1,0 +1,16 @@
+# robots.txt for https://www.balakrishnaatextiles.com
+User-agent: *
+Allow: /
+Disallow: /node_modules/
+Disallow: /package.json
+Disallow: /package-lock.json
+Disallow: /tailwind.config.js
+Disallow: /README.md
+Disallow: /js/data/
+Disallow: /js/config/
+
+# Do NOT block /css/ or /js/components/ - Google needs them to render the page
+User-agent: Googlebot-Image
+Allow: /assets/images/
+
+Sitemap: https://www.balakrishnaatextiles.com/sitemap.xml

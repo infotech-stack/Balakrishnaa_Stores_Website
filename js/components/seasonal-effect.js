@@ -78,7 +78,7 @@
       shapes: ['diya', 'diya', 'kandil', 'kandil', 'sparkle', 'sparkle', 'glow'],
       colors: ['#ff9800', '#ffb300', '#f5329f', '#ffd700', '#e53935', '#8e44ad'],
       size: [11, 20],
-      shapeSize: { diya: [26, 35], kandil: [32, 46] },
+      shapeSize: { diya: [26, 35], kandil: [31, 44] },
       speed: [32, 75], sway: 30, twinkle: true, spin: true, direction: 'down',
       bursts: {
         gap: [1.2, 2.6], count: [30, 44],

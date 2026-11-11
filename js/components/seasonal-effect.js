@@ -24,7 +24,7 @@
   /* ======================= 1. SETTINGS (edit me) ======================= */
   var SETTINGS = {
     enabled: true,               /* true = show effect, false = hide it       */
-    theme: 'diwali',             /* which theme from THEMES to use            */
+    theme: 'christmas',             /* which theme from THEMES to use            */
     useSchedule: true,          /* true = pick theme automatically by date   */
     respectReducedMotion: false, /* true = hide for visitors who turned off
                                     animations in their device settings       */

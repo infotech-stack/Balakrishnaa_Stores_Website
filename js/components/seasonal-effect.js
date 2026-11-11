@@ -25,7 +25,7 @@
   var SETTINGS = {
     enabled: true,               /* true = show effect, false = hide it       */
     theme: 'christmas',             /* which theme from THEMES to use            */
-    useSchedule: true,          /* true = pick theme automatically by date   */
+    useSchedule: false,          /* true = pick theme automatically by date   */
     respectReducedMotion: false, /* true = hide for visitors who turned off
                                     animations in their device settings       */
     intensity: 1,                /* 1 = normal, 0.5 = half as many, 1.5 = more*/

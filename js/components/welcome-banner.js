@@ -11,7 +11,7 @@
 (function () {
   var BANNER_IMAGE_SRC = 'assets/images/banners/welcome-banner.webp';
   var BANNER_ALT_TEXT = 'Balakrishnaa Stores - Deepavali Sales Have Started! Exciting Offers & Special Festive Discounts';
-  var BANNER_VERSION = 1; // bump this number to re-show the popup to everyone after a banner change
+  var BANNER_VERSION = 2; // bump this number to re-show the popup to everyone after a banner change
   var SHOW_DELAY_MS = 500; // small delay after page load feels less jarring than instant popup
 
   var STORAGE_KEY = 'bsWelcomeBannerSeen_v' + BANNER_VERSION;
